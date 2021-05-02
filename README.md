@@ -1,7 +1,6 @@
 # Post-Robot
 
 This project is part of a collaboration between the **ENSI Robotics Association** and the **Tunisian Post**.
-<a href="google.com">aaa</a>
 
 **Post Robot:** is an autonomous robot delivering parcels by reading the QR-code. This robot, playing the role of a post agent, recognizes its way with the help of two cameras and distributes the packages to the appropriate stations.
 
@@ -33,6 +32,6 @@ Trophy from the Tunisian Post
 
 email : ghassene.tanabene@gmail.com
 
-linkedin : https://www.linkedin.com/in/ghassene-tanabene/
+linkedin : <a href="https://www.linkedin.com/in/ghassene-tanabene/"></a>
 
 ENSI ROBOTICS ASSOCIATION : https://www.linkedin.com/in/association-robotique-ensi/
