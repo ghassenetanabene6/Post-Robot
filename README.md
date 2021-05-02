@@ -8,14 +8,14 @@ This robot model can also be used indoors in industrial companies and service ar
 
 The presentation of this project was made during **World Post Day on October 9, 2019** and in the presence of the **Minister of Technology Mr. Anouar Maârouf**.
 
-🏆 **Reward :** 
-Trophy from the Tunisian Post
 
 📍 **Keywords** : Python, C/C++, OpenCV, Raspberry Pi, Arduino , Image Processing
 
 <hr>
 
-🎥 Presentation in the World Post Day Event : 
+
+🏆 **Reward :** 
+Trophy from the Tunisian Post
 
 **Highlights of the event :** https://www.youtube.com/watch?v=dV-r053dy6c
 
