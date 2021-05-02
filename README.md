@@ -13,7 +13,11 @@ Trophy from the Tunisian Post
 
 📍 **Keywords** : Python, C/C++, OpenCV, Raspberry Pi, Arduino , Image Processing
 
+<hr>
 
+🎥 Presentation in the World Post Day Event : 
 
-<img src="1.jpg" width="80%">
+**Highlights of the event :** https://www.youtube.com/watch?v=dV-r053dy6c
+
+<img src="1.jpg">
 
