@@ -32,6 +32,6 @@ Trophy from the Tunisian Post
 
 email : ghassene.tanabene@gmail.com
 
-linkedin : <a href="https://www.linkedin.com/in/ghassene-tanabene/"></a>
+linkedin : <a href="https://www.linkedin.com/in/ghassene-tanabene/">https://www.linkedin.com/in/ghassene-tanabene/ </a>
 
 ENSI ROBOTICS ASSOCIATION : https://www.linkedin.com/in/association-robotique-ensi/
