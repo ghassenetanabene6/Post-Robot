@@ -15,5 +15,5 @@ Trophy from the Tunisian Post
 
 
 
-<img src="1.jpg" width="70%">
+<center><img src="1.jpg" width="80%"></center>
 
