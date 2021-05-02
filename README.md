@@ -21,3 +21,14 @@ Trophy from the Tunisian Post
 
 <img src="1.jpg">
 
+
+📅 **Last Update On** : October 2019.
+
+
+✉️ Contact :
+
+email : ghassene.tanabene@gmail.com
+
+linkedin : https://www.linkedin.com/in/ghassene-tanabene/
+
+ENSI ROBOTICS ASSOCIATION : https://www.linkedin.com/in/association-robotique-ensi/
