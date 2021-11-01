@@ -26,10 +26,10 @@ Trophy from the Tunisian Post
 <img src="Robot.jpg">
 
 <hr>
-📅 **Last Update On** : October 2019.
+📅 **Last Update On :** October 2019.
 
 
-✉️ Contact :
+✉️ **Contact :**
 
 email : ghassene.tanabene@gmail.com
 
